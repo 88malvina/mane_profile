@@ -1,0 +1,55 @@
+.div{
+	padding-right:300px;
+}
+.flex_container {
+	display: flex;
+	flex-direction: row;
+	width: 800px;
+	text-align: center;
+}
+
+.row1	{
+	background-color:#FFE4C4; 
+	
+padding-left:30px;
+	width:30%;
+	
+}
+
+.row2{
+	background-color:#FFFAF0; 
+	width:60%;
+padding-left:30px;
+
+}
+
+.gcer{
+	display: flex;
+	height:2px;
+	background-color: black;
+}
+.position_left {
+	text-align: left;
+}
+.position_left2{
+	text-align:left;
+}
+.position_left3{
+	text-align:left;
+}
+.position_4{
+	text-align:left;
+}
+.left21{
+	text-align:left;
+}
+.right12{
+text-align:left;
+}
+.right13{
+	text-align:left;
+}
+	
+.gic {
+	text-decoration: underline;
+}
